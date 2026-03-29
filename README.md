@@ -111,9 +111,25 @@ npm run dev
 
 ## 📸 Screenshots
 
-(Add screenshots of your UI here)
+###  Login Page
+![Login Page](screenshots/Login Page.png)
 
----
+###  Register Page
+![Register Page](screenshots/Register Page.png)
+
+###  Dashboard 
+![Dashboard Overview](screenshots/Dashboard1.png)
+![Dashboard Tasks](screenshots/Dashboard2.png)
+
+### Task Management
+![Tasks](screenshots/Task.png)
+
+### API Documentation (Swagger)
+
+#### API Views
+![API1](screenshots/API1.png)
+![API1](screenshots/API2.png)
+![API1](screenshots/API3.png)
 
 ## 📈 Scalability
 
@@ -122,8 +138,4 @@ npm run dev
 * Supports caching (Redis-ready)
 * Load balancing possible via Nginx
 
----
 
-## 📄 License
-
-MIT
