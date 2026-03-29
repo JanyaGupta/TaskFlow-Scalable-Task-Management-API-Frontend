@@ -112,10 +112,10 @@ npm run dev
 ## 📸 Screenshots
 
 ###  Login Page
-![Login Page](screenshots/Login Page.png)
+![Login Page](screenshots/Login.png)
 
 ###  Register Page
-![Register Page](screenshots/Register Page.png)
+![Register Page](screenshots/Register.png)
 
 ###  Dashboard 
 ![Dashboard Overview](screenshots/Dashboard1.png)
